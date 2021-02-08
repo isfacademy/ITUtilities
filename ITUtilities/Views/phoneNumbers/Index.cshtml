@@ -1,0 +1,106 @@
+﻿@model IEnumerable<ITUtilities.Models.phoneNumber>
+
+@{
+    ViewBag.Title = "Phone Numbers";
+}
+
+@section scripts {
+    @Scripts.Render("~/bundles/Datatable")
+}
+
+@section styles {
+    @Styles.Render("~/Content/Datatable")
+}
+<h2>فهرس الهواتف</h2>
+@* if user is logged in *@
+@if (Request.IsAuthenticated)
+{
+    <p>
+        @Html.ActionLink("إضافة جديد", "Create")
+    </p>
+}
+
+<table id="phoneNumbersList" class="table hover">
+    <thead>
+        <tr>
+            <th class="branchName">
+                @*@Html.DisplayNameFor(model => model.Branch.Name)*@
+                القطعة
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Name)*@
+                الإسم
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Number1)*@
+                هاتف 1
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Number2)*@
+                هاتف 2
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Number3)*@
+                هاتف 3
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Number4)*@
+                هاتف 4
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Number5)*@
+                هاتف 5
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.ExternalNumber )
+                            خارجي
+                        </th>*@
+
+            @* if user is logged in *@
+            @if (Request.IsAuthenticated)
+            {
+                <th></th>
+            }
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Branch.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number2)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number3)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number4)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number5)
+                </td>
+                @*<td>
+                    @Html.DisplayFor(modelItem => item.ExternalNumber)
+                </td>*@
+                @* if user is logged in *@
+                @if (Request.IsAuthenticated)
+                {
+                    <td>
+                        @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) |
+                        @Html.ActionLink("حذف", "Delete", new { id = item.Id })
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
