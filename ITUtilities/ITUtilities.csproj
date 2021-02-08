@@ -549,6 +549,7 @@
     <Content Include="Content\Fancybox\source\jquery.fancybox.css" />
     <Content Include="Content\Fancybox\source\jquery.fancybox.js" />
     <Content Include="Content\Fancybox\source\jquery.fancybox.pack.js" />
+    <Content Include="Content\Media\phoneicon.png" />
     <Content Include="Content\TreeTreant\css\collapsable.css" />
     <Content Include="Content\TreeTreant\css\Treant.css" />
     <Content Include="Content\TreeTreant\js\collapsable.js" />
