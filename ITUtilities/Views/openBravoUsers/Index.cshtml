@@ -3,6 +3,7 @@
 @{
     ViewBag.Title = "Index";
     bool IsForAdmin = (bool)ViewBag.IsForAdmin;
+    string Name = IsForAdmin ? "Application URL" : "Branch Name	";
 }
 
 @section scripts {
@@ -23,7 +24,7 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Branch.Name)
+               @Name
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Name)

@@ -64,6 +64,11 @@ namespace ITUtilities.Controllers
             if (IsForAdmin == "IsForAdmin")
             {
                 isfor = true;
+                ViewBag.IsForAdmin = true;
+            }
+            else
+            {
+                ViewBag.IsForAdmin = false;
             }
             ViewBag.isfBranchId = new SelectList(db.IsfBranches.Where(m => m.Visible == true && m.IsforAdmin == isfor).OrderBy(m => m.OrderId), "Id", "Name");
             return View();
