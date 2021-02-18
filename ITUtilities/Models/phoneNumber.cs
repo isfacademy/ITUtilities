@@ -29,5 +29,7 @@ namespace ITUtilities.Models
         [Required]
         public int isfBranchId { get; set; }
         public isfBranch Branch { get; set; }
+        public virtual ICollection<isfPerson> sss { get; set; }
+
     }
 }
