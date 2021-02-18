@@ -21,5 +21,6 @@ namespace ITUtilities.Models
 
         //People
         public virtual ICollection<isfPerson> People { get; set; }
+        public virtual ICollection<isfPerson> samih { get; set; }
     }
 }
