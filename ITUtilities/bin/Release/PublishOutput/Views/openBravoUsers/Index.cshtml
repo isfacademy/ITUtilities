@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ITUtilities.Models.openBravoUser>
+
+@{
+    ViewBag.Title = "Index";
+    bool IsForAdmin = (bool)ViewBag.IsForAdmin;
+    string Name = IsForAdmin ? "Application URL" : "Branch Name	";
+}
+
+@section scripts {
+    @Scripts.Render("~/bundles/Datatable")
+}
+
+@section styles {
+    @Styles.Render("~/Content/Datatable")
+}
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", IsForAdmin ? new { IsForAdmin = "IsForAdmin" } : new { IsForAdmin = "" })
+
+</p>
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>
+               @Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th></th>
+        </tr>
+
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Branch.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.PasswordFor(modelItem => item.Password, new { @class = "form-control pwd-field", @readonly = "readonly", Value = item.Password })
+                    <a class="passwordShow">
+                        <img src="~/Content/Media/show-password.png" />
+                    </a>
+                    @*@Html.DisplayFor(modelItem => item.Password)*@
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

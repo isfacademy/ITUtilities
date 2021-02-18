@@ -1,0 +1,170 @@
+﻿
+*{
+    //font-weight:bold !important;
+}
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.passwordShow img {
+    width: 30px;
+}
+
+.pwd-field {
+    width: 70%;
+}
+
+.dataTable thead, .dataTable tbody {
+    font-size: 15px;
+}
+
+select[disabled] {
+    /*visibility: hidden;*/
+    display: none !important;
+}
+
+.dataTables_filter {
+    margin-bottom: 15px;
+}
+.branchFilter {
+    float: none;
+}
+
+    .branchFilter select {
+        margin-left: 0.5em;
+        display: inline-block;
+        width: auto;
+    }
+
+.dataTable thead {
+    background-color: #286bb1;
+    color: white;
+}
+
+.dataTable tr:last-child td {
+    border-bottom: 1px black solid;
+}
+
+.dataTable tr.even {
+    background-color: #e2e2e2;
+}
+
+.dataTable tbody tr:hover {
+    background-color: #286bb1;
+    border: 3px solid #000000;
+    color: #ffffff;
+}
+
+    .dataTable tbody tr:hover a {
+        color: #ffffff;
+    }
+
+.dataTable td, .dataTable th {
+    border-left: 1px #000000 solid;
+    border-top: 1px #000000 solid !important;
+    text-align: center;
+}
+
+.dataTable thead > tr > th {
+    border-bottom: unset;
+}
+
+.dataTable td:last-child, .dataTable th:last-child {
+    border-right: 2px #000000 solid;
+}
+
+.navbar-inverse {
+    background-color: #286bb1;
+}
+
+    .navbar-inverse a {
+        color: #ffffff !important;
+    }
+
+.popupData {
+    font-size: 22px;
+}
+
+
+.node {
+    cursor: pointer;
+}
+
+.branchOfficers {
+    font-size: 18px;
+    column-fill: balance;
+    font-family: monospace;
+}
+
+.fancybox-inner {
+    height: auto !important;
+}
+
+.fancybox-wrap, .fancybox-inner {
+    width: auto !important;
+}
+
+.fancybox-skin, .navbar-inverse, .Treant > .node {
+    background-color: #286bb1;
+    color: white;
+}
+
+    .navbar-inverse a {
+        color: white !important;
+    }
+
+.centered {
+    text-align: center !important;
+}
+
+/* Arabic Styling Overrides Start */
+
+.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+/*.floatRight {
+    float: right;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.pagination > li > a, .pagination > li > span, [class*='col-'] {
+    float: right;
+}*/
+/*div[class*='col-md-']{
+    float:right;
+}*/
+/* Arabic Styling Overrides End */
+
+.fancybox-overlay {
+    background: url('Fancybox/source/fancybox_overlay.png');
+}
+
+#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-image: url('Fancybox/source/fancybox_sprite.png');
+}

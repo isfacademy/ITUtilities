@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ITUtilities.Models.isfBranch>
+
+@{
+    ViewBag.Title = "هيكلية الفروع";
+}
+
+@section scripts {
+    @Scripts.Render("~/bundles/Fancy")
+    @Scripts.Render("~/bundles/TreeTreantJS")
+    @Scripts.Render("~/bundles/Datatable")
+}
+
+@section styles {
+    @Styles.Render("~/Content/Datatable")
+    @Styles.Render("~/Content/Fancy")
+    @Styles.Render("~/Content/TreeTreantJS")
+}
+
+<div class="chart" id="treeHolder"></div>
+<div class="branchesContainer" style="display:none;">
+    @foreach (var item in Model)
+    {
+        <div id="@item.Id" data-parent="@(item.ParentId== null ? "none" :item.ParentId.ToString())" @(item.isPseudo ? "data-ispseudo=1" : "")>@item.Name</div>
+    }
+</div>
+
+<div class="dataContainer" style="display:none;">
+    @foreach (var item in Model)
+    {
+        if (item.isfPeople.Count > 0)
+        {
+            //if branch people count ==1 then col-md-12 else if 2 then col-md-6 other wise we make it 3 columns col-md-3
+            string col_number = (item.isfPeople.Count == 1) ? "12" : (item.isfPeople.Count == 2 ? "6" : "4");
+            int counter = 1;
+            int columnCount = (item.isfPeople.Count % 10 == 0) ? (item.isfPeople.Count / 10) : (item.isfPeople.Count / 10) + 1;
+
+            <div id="p-@item.Id" data-branch-id="@item.Id" class="rtl">
+                <h3 class="centered">@item.Name</h3>
+                <div class="branchOfficers" style="column-count:@columnCount">
+                    @foreach (var isfPerson in item.isfPeople.Where(x => x.Active == true).OrderByDescending(m => m.Rank.Order).ThenBy(s=> s.MilitaryNumber))
+                    {
+                        <p>@counter - @isfPerson.Rank.Name @isfPerson.Name</p>
+                        counter++;
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>

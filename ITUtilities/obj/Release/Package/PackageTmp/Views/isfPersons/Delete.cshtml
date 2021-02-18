@@ -1,0 +1,20 @@
+﻿@model ITUtilities.Models.isfPerson
+
+@{
+    ViewBag.Title = "حذف";
+}
+
+<h2>حذف</h2>
+
+<h3>سيتم حذف الضابط " @Model.Name " , هل أنت متأكد؟</h3>
+<div>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="حذف" class="btn btn-default" /> |
+            @Html.ActionLink("العودة إلى الجدول", "Index")
+        </div>
+    }
+</div>

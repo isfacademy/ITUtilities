@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ITUtilities.Models.isfBranch>
+
+@{
+    ViewBag.Title = "جدول الفروع";
+}
+
+
+@section scripts {
+    @Scripts.Render("~/bundles/Datatable")
+}
+
+@section styles {
+    @Styles.Render("~/Content/Datatable")
+}
+
+<h2>جدول الفروع</h2>
+
+<p>
+    @Html.ActionLink("إضافة", "Create")
+</p>
+<table class="table dataTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Parent.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderId)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.isPseudo)
+                </th>*@
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Parent.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderId)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.isPseudo)
+                    </td>*@
+                <td>
+                    @Html.ActionLink("تعديل", "Edit", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+
+</table>

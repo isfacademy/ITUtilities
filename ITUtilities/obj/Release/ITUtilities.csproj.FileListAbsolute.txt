@@ -1,0 +1,328 @@
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ApplicationInsights.config
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csc.exe
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csc.exe.config
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csc.rsp
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csi.exe
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csi.rsp
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.AppContext.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\vbc.exe
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\vbc.exe.config
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\vbc.rsp
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\VBCSCompiler.exe
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ITUtilities.dll.config
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ITUtilities.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ITUtilities.pdb
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Antlr3.Runtime.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.SqlServer.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.Web.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Newtonsoft.Json.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Owin.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Helpers.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Mvc.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Optimization.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Razor.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Razor.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\WebGrease.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.SqlServer.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Helpers.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Mvc.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Optimization.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Razor.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Razor.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Antlr3.Runtime.pdb
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Newtonsoft.Json.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.Web.xml
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.csprojResolveAssemblyReference.cache
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.Initial.resources
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.csproj.GenerateResource.Cache
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.dll
+C:\Users\mohammad.attat\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.pdb
+C:\Users\mohammad.attat\documents\visual studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RemoveRequiredPassword.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ApplicationInsights.config
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csc.exe
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csc.exe.config
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csc.rsp
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csi.exe
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\csi.rsp
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.AppContext.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\vbc.exe
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\vbc.exe.config
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\vbc.rsp
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\VBCSCompiler.exe
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ITUtilities.dll.config
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ITUtilities.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\ITUtilities.pdb
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Antlr3.Runtime.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.SqlServer.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.Web.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Newtonsoft.Json.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Owin.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Helpers.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Mvc.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Optimization.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Razor.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Razor.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\WebGrease.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\EntityFramework.SqlServer.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Helpers.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Mvc.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Optimization.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.Razor.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\System.Web.WebPages.Razor.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Antlr3.Runtime.pdb
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Newtonsoft.Json.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\bin\Microsoft.AI.Web.xml
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.Initial.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RemoveRequiredPassword.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.csproj.GenerateResource.Cache
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.dll
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.pdb
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddPhoneNumber5Field.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddOpenBravoUserModel.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddExternalPhoneNumber.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RemovedRequiredNumber1.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddAdministrativeCredentials.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.MergingBranchesOfficersApp.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddVisibleFieldBranch.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.Rollback1.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddRank.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddMilitaryNumber.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RemovePersonOrder.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RankIsOfficer.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.SetPersonRankAsVirtual.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddPhoneNumberOrder.resources
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Attet\Documents\Visual Studio 2017\Projects\ITUtilities\ITUtilities\obj\Release\ITUtilities.csproj.CopyComplete
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\ApplicationInsights.config
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\csc.exe
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\csc.exe.config
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\csc.rsp
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\csi.exe
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\csi.rsp
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\System.AppContext.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\vbc.exe
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\vbc.exe.config
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\vbc.rsp
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\VBCSCompiler.exe
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\ITUtilities.dll.config
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\ITUtilities.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\ITUtilities.pdb
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Antlr3.Runtime.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\EntityFramework.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\EntityFramework.SqlServer.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.Web.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Newtonsoft.Json.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Owin.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Helpers.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Mvc.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Optimization.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Razor.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.WebPages.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.WebPages.Razor.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\WebGrease.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\EntityFramework.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\EntityFramework.SqlServer.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Helpers.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Mvc.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Optimization.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.Razor.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.WebPages.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\System.Web.WebPages.Razor.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Antlr3.Runtime.pdb
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Newtonsoft.Json.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\bin\Microsoft.AI.Web.xml
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.Initial.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RemoveRequiredPassword.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddPhoneNumber5Field.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddOpenBravoUserModel.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddExternalPhoneNumber.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RemovedRequiredNumber1.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddAdministrativeCredentials.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.MergingBranchesOfficersApp.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddVisibleFieldBranch.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.Rollback1.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddRank.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddMilitaryNumber.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RemovePersonOrder.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.RankIsOfficer.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.SetPersonRankAsVirtual.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddPhoneNumberOrder.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.Migrations.AddisforAdmin.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.csproj.GenerateResource.cache
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.csproj.CoreCompileInputs.cache
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.csproj.CopyComplete
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.dll
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\ITUtilities\ITUtilities\obj\Release\ITUtilities.pdb

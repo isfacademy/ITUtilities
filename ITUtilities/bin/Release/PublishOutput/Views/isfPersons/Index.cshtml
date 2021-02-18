@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ITUtilities.Models.isfPerson>
+
+@{
+    ViewBag.Title = "جدول الضباط";
+}
+
+@section scripts {
+    @Scripts.Render("~/bundles/Datatable")
+}
+
+@section styles {
+    @Styles.Render("~/Content/Datatable")
+}
+<h2>جدول الضباط</h2>
+
+<p>
+    @Html.ActionLink("إضافة جديد", "Create")
+</p>
+<table class="table dataTable hasBranchFilter">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("الرتبة")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayName("الرقم المالي")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Branch)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rank.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MilitaryNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Branch.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Active)
+                </td>
+                <td>
+                    @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) @*|*@
+                    @*@Html.ActionLink("حذف", "Delete", new { id = item.Id })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
